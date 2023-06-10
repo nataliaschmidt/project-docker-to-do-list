@@ -1,4 +1,3 @@
-
 FROM betrybe/puppetter:1.0
 
 WORKDIR /app/tests
